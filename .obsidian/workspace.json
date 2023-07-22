@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "6e5d3e0437bbe102",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbbb962817336c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5ea7490a2d13e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Melee/Marth/Marth Resources.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "291a3788a761e081",
+    "type": "split",
+    "children": [
+      {
+        "id": "79758ff7309bd3b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e393a631d64198e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de491bc8ca551ee2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "marth di_mixup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8510c3f9a8a4470b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d80acc180fe38f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3103545bb0188c5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "342ca6b63f9ff357",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Melee/Marth/Marth Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a705bf9ad516f112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Melee/Marth/Marth Resources.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e6baf285c1eb17d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ebbed7ed6480812",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Melee/Marth/Marth Resources.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "c5ea7490a2d13e3e",
+  "lastOpenFiles": [
+    "Notes/LICENSE",
+    "Notes",
+    "Melee/Melee MOC.md",
+    "Melee/Marth/Marth Resources.md",
+    "Melee/Marth/Marth upthrow in the corner.md",
+    "Melee/Marth/Marth fthrow in the corner.md",
+    "Untitled.md",
+    "fox.md",
+    "Templates/Test.md",
+    "Projects/Andross/database schema.md",
+    "Templates",
+    "Projects/Andross/startgg database.md",
+    "Melee/Falco/Resources.md",
+    "test.md",
+    "202307210403.md",
+    "2023-07-21.md",
+    "Melee/Falco",
+    "Melee/Index.md~",
+    "Melee/4913",
+    "Melee/Marth",
+    "Melee/Vod Review",
+    "Projects/Andross",
+    "Projects",
+    "Melee"
+  ]
+}
