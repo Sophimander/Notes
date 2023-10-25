@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Marth/Marth Resources.md",
+                "file": "Melee/Yoshi/Resources.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7be73b3736772953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d009f5eeefea2ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Melee/Marth/Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melee/Marth/Marth Resources.md",
+                "file": "Melee/Yoshi/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melee/Marth/Marth Resources.md",
+                "file": "Melee/Yoshi/Resources.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Melee/Marth/Marth Resources.md"
+                "file": "Melee/Yoshi/Resources.md"
               }
             }
           }
@@ -135,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,11 +170,13 @@
   },
   "active": "c5ea7490a2d13e3e",
   "lastOpenFiles": [
+    "Melee/Melee MOC.md",
+    "Melee/Yoshi/Resources.md",
+    "Melee/Marth/Resources.md",
+    "Melee/Marth/Marth upthrow in the corner.md",
+    "Melee/Yoshi",
     "Notes/LICENSE",
     "Notes",
-    "Melee/Melee MOC.md",
-    "Melee/Marth/Marth Resources.md",
-    "Melee/Marth/Marth upthrow in the corner.md",
     "Melee/Marth/Marth fthrow in the corner.md",
     "Untitled.md",
     "fox.md",
@@ -171,8 +193,6 @@
     "Melee/4913",
     "Melee/Marth",
     "Melee/Vod Review",
-    "Projects/Andross",
-    "Projects",
-    "Melee"
+    "Projects/Andross"
   ]
 }
