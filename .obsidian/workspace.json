@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9f78ccfbeb7405e4",
+        "id": "c315f61743d6c730",
         "type": "tabs",
         "children": [
           {
-            "id": "7852cbd50401b1a1",
+            "id": "32126702303daead",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -118,11 +125,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,8 +148,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7852cbd50401b1a1",
+  "active": "a705bf9ad516f112",
   "lastOpenFiles": [
+    "Game_20231113T200327.slp",
+    "Game_20231113T200840.slp",
+    "Game_20231113T200614.slp",
+    "Melee/Melee MOC.md",
+    "Templates/Gameplan.md",
+    "Templates/Test.md",
+    "Melee/Falco/Vs Marth/Gameplan.md",
     "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
     "Melee/Yoshi/Tim Yoshi Notes.md",
     "Melee/Yoshi/DK pressure on platforms.md",
@@ -157,10 +173,8 @@
     "Melee/Falco/Vods to review.md",
     "Melee/Falco/Vs Marth",
     "Melee/Falco/Vs Samus/Untitled",
-    "Templates/Test.md",
     "Melee/Falco/Vod Review",
     "Melee/Falco/Vs Samus",
-    "Melee/Melee MOC.md",
     "Melee/Yoshi/Dash attacking samus bombs.md",
     "Projects/Andross/database schema.md",
     "Projects/Andross/startgg database.md",
@@ -171,8 +185,6 @@
     "Templates",
     "test.md",
     "202307210403.md",
-    "2023-07-21.md",
-    "Melee/Falco",
-    "Melee/Index.md~"
+    "2023-07-21.md"
   ]
 }

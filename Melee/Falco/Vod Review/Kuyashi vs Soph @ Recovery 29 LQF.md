@@ -14,3 +14,9 @@ tags:
 Double jumping out of hitstun a lot off stage
 #todo Figure out how to deal with f smash at ledge better, especially off of grab in the corner
 #todo Practice escaping out of marth on platforms, will make savestates after this
+
+![[Game_20231113T200614.slp]]
+
+![[Game_20231113T200840.slp]]
+
+![[Game_20231113T200327.slp]]
