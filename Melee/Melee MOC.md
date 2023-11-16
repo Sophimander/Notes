@@ -4,7 +4,7 @@ tags: index melee resources marth falco yoshi
 
 # Characters
 ## marth #marth
-- [[Melee/Marth/Resources|Resources]]
+- [[Melee/Marth/Resources|Marth Resources]]
 ## falco #falco
 - [[Melee/Falco/Resources|Falco Resources]]
 

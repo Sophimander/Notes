@@ -1,6 +1,5 @@
 ---
 tags:
-  - samus
   - falco
   - neutral
   - insights
