@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fbbb962817336c80",
+        "id": "9f78ccfbeb7405e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ea7490a2d13e3e",
+            "id": "7852cbd50401b1a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Melee/Yoshi/Resources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7be73b3736772953",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d009f5eeefea2ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Melee/Marth/Resources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -68,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marth di_mixup",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5
   },
   "right": {
     "id": "4d80acc180fe38f2",
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melee/Yoshi/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melee/Yoshi/Resources.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -144,18 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Melee/Yoshi/Resources.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,31 +139,40 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c5ea7490a2d13e3e",
+  "active": "7852cbd50401b1a1",
   "lastOpenFiles": [
-    "Melee/Melee MOC.md",
+    "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
+    "Melee/Yoshi/Tim Yoshi Notes.md",
+    "Melee/Yoshi/DK pressure on platforms.md",
+    "Melee/Yoshi/Neutral b at low %.md",
     "Melee/Yoshi/Resources.md",
     "Melee/Marth/Resources.md",
+    "Melee/Falco/Resources.md",
     "Melee/Marth/Marth upthrow in the corner.md",
+    "Melee/Marth/Marth fthrow in the corner.md",
+    "Melee/Falco/Vs Samus/In place aerials to control space.md",
+    "Melee/Falco/Vs Samus/Attack shield indirectly.md",
+    "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 WF.md",
+    "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 LF.md",
+    "Melee/Falco/Vods to review.md",
+    "Melee/Falco/Vs Marth",
+    "Melee/Falco/Vs Samus/Untitled",
+    "Templates/Test.md",
+    "Melee/Falco/Vod Review",
+    "Melee/Falco/Vs Samus",
+    "Melee/Melee MOC.md",
+    "Melee/Yoshi/Dash attacking samus bombs.md",
+    "Projects/Andross/database schema.md",
+    "Projects/Andross/startgg database.md",
     "Melee/Yoshi",
     "Notes/LICENSE",
     "Notes",
-    "Melee/Marth/Marth fthrow in the corner.md",
-    "Untitled.md",
     "fox.md",
-    "Templates/Test.md",
-    "Projects/Andross/database schema.md",
     "Templates",
-    "Projects/Andross/startgg database.md",
-    "Melee/Falco/Resources.md",
     "test.md",
     "202307210403.md",
     "2023-07-21.md",
     "Melee/Falco",
-    "Melee/Index.md~",
-    "Melee/4913",
-    "Melee/Marth",
-    "Melee/Vod Review",
-    "Projects/Andross"
+    "Melee/Index.md~"
   ]
 }

@@ -1,9 +1,7 @@
 ---
 tags: marth melee resources guide
 ---
-#marth
-
-# Resource Compilation
+## Resource Compilation
 - [Marth cookbook](https://melee.cookbook.gg/Marth)
 - [Melee Guru](https://melee.guru/characters/marth.html)
 - [Zephirex Guide](https://www.youtube.com/playlist?list=PLOzYxSEpTNXqVkzJNiEBExSjb24goBlMq)
