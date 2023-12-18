@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79bece93c4bc8ad3",
+        "id": "4b6ae4a03c3bf52e",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d2d7f8c22bd674",
+            "id": "0c32183419f08b3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
+                "file": "Melee/Falco/Vs Marth/Gameplan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#vsfalco  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
+                "file": "Melee/Falco/Vs Marth/Gameplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
+                "file": "Melee/Falco/Vs Marth/Gameplan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md"
+                "file": "Melee/Falco/Vs Marth/Gameplan.md"
               }
             }
           }
@@ -147,28 +148,30 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b8d2d7f8c22bd674",
+  "active": "de491bc8ca551ee2",
   "lastOpenFiles": [
+    "Melee/Falco/Vods to review.md",
+    "Melee/Falco/Vs Marth/Gameplan.md",
+    "Untitled.md",
+    "Templates/Kill Percentage Table.md",
+    "Templates/Gameplan.md",
+    "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 LF.md",
+    "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
+    "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
     "Melee/Yoshi/Dash attacking samus bombs.md",
     "Melee/Falco/Vs Samus/Attack shield indirectly.md",
     "Melee/Falco/Vs Samus/In place aerials to control space.md",
     "Melee/Falco/Resources.md",
-    "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
     "Melee/Marth/Marth fthrow in the corner.md",
     "Melee/Marth/Marth upthrow in the corner.md",
     "Melee/Marth/Resources.md",
     "Melee/Marth/Vs Falco",
     "Melee/Melee MOC.md",
     "Untitled.canvas",
-    "Melee/Falco/Vods to review.md",
-    "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 LF.md",
-    "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
     "Game_20231113T200327.slp",
     "Game_20231113T200840.slp",
     "Game_20231113T200614.slp",
-    "Templates/Gameplan.md",
     "Templates/Test.md",
-    "Melee/Falco/Vs Marth/Gameplan.md",
     "Melee/Yoshi/Tim Yoshi Notes.md",
     "Melee/Yoshi/DK pressure on platforms.md",
     "Melee/Yoshi/Neutral b at low %.md",
@@ -183,8 +186,6 @@
     "Melee/Yoshi",
     "Notes/LICENSE",
     "fox.md",
-    "test.md",
-    "202307210403.md",
-    "2023-07-21.md"
+    "test.md"
   ]
 }
