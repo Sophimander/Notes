@@ -21,6 +21,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "f205deea1a6edfc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c7fa0b933888666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Melee/Falco/vs Sheik/Gameplan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vsfalco  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 244.5
   },
   "right": {
     "id": "4d80acc180fe38f2",
@@ -87,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melee/Falco/Vs Marth/Gameplan.md",
+                "file": "Melee/Falco/vs Sheik/Gameplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melee/Falco/Vs Marth/Gameplan.md",
+                "file": "Melee/Falco/vs Sheik/Gameplan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Melee/Falco/Vs Marth/Gameplan.md"
+                "file": "Melee/Falco/vs Sheik/Gameplan.md"
               }
             }
           }
@@ -135,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +167,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "de491bc8ca551ee2",
+  "active": "0c7fa0b933888666",
   "lastOpenFiles": [
-    "Melee/Falco/Vods to review.md",
     "Melee/Falco/Vs Marth/Gameplan.md",
+    "Melee/Falco/vs Sheik/Gameplan.md",
+    "Melee/Falco/vs Sheik",
+    "Melee/Falco/Vods to review.md",
     "Untitled.md",
     "Templates/Kill Percentage Table.md",
     "Templates/Gameplan.md",
@@ -184,8 +205,6 @@
     "Projects/Andross/database schema.md",
     "Projects/Andross/startgg database.md",
     "Melee/Yoshi",
-    "Notes/LICENSE",
-    "fox.md",
-    "test.md"
+    "fox.md"
   ]
 }
