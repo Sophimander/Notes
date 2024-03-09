@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Coaching/Thoughts 3-5-2024.md",
-                "mode": "preview",
+                "file": "Melee/Coaching/Thoughts 3-8-2024.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melee/Coaching/Thoughts 3-5-2024.md",
+                "file": "Melee/Coaching/Thoughts 3-8-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melee/Coaching/Thoughts 3-5-2024.md",
+                "file": "Melee/Coaching/Thoughts 3-8-2024.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Melee/Coaching/Thoughts 3-5-2024.md"
+                "file": "Melee/Coaching/Thoughts 3-8-2024.md"
               }
             }
           }
@@ -164,10 +164,11 @@
   },
   "active": "423da7274187e841",
   "lastOpenFiles": [
+    "Melee/Coaching/Thoughts 3-5-2024.md",
+    "Melee/Coaching/Thoughts 3-8-2024.md",
     "Templates/Gameplan.md",
     "Templates/Kill Percentage Table.md",
     "Templates/Test.md",
-    "Melee/Coaching/Thoughts 3-5-2024.md",
     "Melee/Yoshi/Resources.md",
     "Melee/Coaching",
     "Melee/Falco/peach up b on shield when on a platform.md",
@@ -199,7 +200,6 @@
     "Game_20231113T200614.slp",
     "Melee/Yoshi/Tim Yoshi Notes.md",
     "Melee/Yoshi/DK pressure on platforms.md",
-    "Melee/Yoshi/Neutral b at low %.md",
-    "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 WF.md"
+    "Melee/Yoshi/Neutral b at low %.md"
   ]
 }
