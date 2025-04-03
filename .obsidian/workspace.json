@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Pickles/Falco/Gameplan.md",
+                "file": "Melee/Pickles/Fox/Gameplan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melee/Pickles/Falco/Gameplan.md",
+                "file": "Melee/Pickles/Fox/Gameplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melee/Pickles/Falco/Gameplan.md",
+                "file": "Melee/Pickles/Fox/Gameplan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Melee/Pickles/Falco/Gameplan.md",
+                "file": "Melee/Pickles/Fox/Gameplan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,14 +181,14 @@
   },
   "active": "6775b825eba870a1",
   "lastOpenFiles": [
+    "Melee/Pickles/Falco/Gameplan.md",
     "Melee/Pickles/Fox/Gameplan.md",
+    "Melee/Falco/Vs Marth/Gameplan.md",
     "Melee/Pickles/Luigi/Gameplan.md",
     "Melee/Pickles/Marth/Gameplan.md",
     "Melee/Pickles/Sheik/Gameplan.md",
-    "Melee/Pickles/Falco/Gameplan.md",
     "Melee/Fox/Resources.md",
     "Templates/Gameplan.md",
-    "Melee/Falco/Vs Marth/Gameplan.md",
     "Melee/Coaching/Thoughts 7-23-2024.md",
     "Melee/Pickles/Fox",
     "Melee/Pickles/Sheik",
@@ -216,7 +216,6 @@
     "Untitled.md",
     "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 LF.md",
     "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
-    "Melee/Yoshi/Dash attacking samus bombs.md",
     "Untitled.canvas"
   ]
 }
