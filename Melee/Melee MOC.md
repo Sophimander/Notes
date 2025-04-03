@@ -8,5 +8,8 @@ tags: index melee resources marth falco yoshi
 ## falco #falco
 - [[Melee/Falco/Resources|Falco Resources]]
 
+## fox #fox
+- [[Melee/Fox/Resources|Resources]]
+
 ## yoshi #yoshi 
 - [[Melee/Yoshi/Resources|Yoshi Resources]]

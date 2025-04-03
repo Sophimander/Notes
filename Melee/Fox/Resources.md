@@ -10,7 +10,8 @@ FROM #todo AND #fox
 ## Insights
 ```dataview
 LIST
-FROM #fox AND #insights 
+FROM #fox AND (#insights OR #thoughts)
+WHERE relevance>5
 ```
 
 ## Vods
