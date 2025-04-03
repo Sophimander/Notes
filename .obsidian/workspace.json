@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "546df462bd78e7e5",
+        "id": "f9190cf02f3bba21",
         "type": "tabs",
         "children": [
           {
-            "id": "9aaae4758e59f3af",
+            "id": "6775b825eba870a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Fox/Resources.md",
+                "file": "Melee/Pickles/Falco/Gameplan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Resources"
-            }
-          },
-          {
-            "id": "cbfb6e36cdbd761e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Melee/Coaching/Thoughts 7-23-2024.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Thoughts 7-23-2024"
+              "title": "Gameplan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melee/Coaching/Thoughts 7-23-2024.md",
+                "file": "Melee/Pickles/Falco/Gameplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thoughts 7-23-2024"
+              "title": "Backlinks for Gameplan"
             }
           },
           {
@@ -148,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melee/Coaching/Thoughts 7-23-2024.md",
+                "file": "Melee/Pickles/Falco/Gameplan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thoughts 7-23-2024"
+              "title": "Outgoing links from Gameplan"
             }
           },
           {
@@ -177,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Melee/Coaching/Thoughts 7-23-2024.md",
+                "file": "Melee/Pickles/Falco/Gameplan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Thoughts 7-23-2024"
+              "title": "Outline of Gameplan"
             }
           }
         ]
@@ -204,8 +179,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e393a631d64198e7",
+  "active": "6775b825eba870a1",
   "lastOpenFiles": [
+    "Melee/Pickles/Fox/Gameplan.md",
+    "Melee/Pickles/Luigi/Gameplan.md",
+    "Melee/Pickles/Marth/Gameplan.md",
+    "Melee/Pickles/Sheik/Gameplan.md",
+    "Melee/Pickles/Falco/Gameplan.md",
+    "Melee/Fox/Resources.md",
+    "Templates/Gameplan.md",
+    "Melee/Falco/Vs Marth/Gameplan.md",
+    "Melee/Coaching/Thoughts 7-23-2024.md",
     "Melee/Pickles/Fox",
     "Melee/Pickles/Sheik",
     "Melee/Pickles/Luigi",
@@ -214,11 +198,9 @@
     "Melee/Pickles",
     "Melee/Coaching/Thoughts 4-18-2024.md",
     "Melee/Coaching/Thoughts 5-27-2024.md",
-    "Melee/Coaching/Thoughts 7-23-2024.md",
     "Melee/Coaching/Thoughts 3-8-2024.md",
     "Melee/Coaching/Thoughts 3-5-2024.md",
     "Melee/Falco/peach up b on shield when on a platform.md",
-    "Melee/Fox/Resources.md",
     "Melee/Falco/Resources.md",
     "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
     "Melee/Falco/Vods to review.md",
@@ -227,21 +209,14 @@
     "Game_0021BDAEC6AB_20240411T211356.slp",
     "Game_0021BDAEC6AB_20240411T211124 1.slp",
     "Game_0021BDAEC6AB_20240411T211124.slp",
-    "Templates/Gameplan.md",
     "Templates/Kill Percentage Table.md",
     "Templates/Test.md",
-    "Melee/Coaching",
-    "Melee/Falco/Vs Marth/Gameplan.md",
     "Melee/Falco/Vod Review/ZrAcid vs Soph @ Recovery 41.md",
     "Melee/Falco/vs Sheik/Gameplan.md",
     "Untitled.md",
     "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 LF.md",
     "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
     "Melee/Yoshi/Dash attacking samus bombs.md",
-    "Melee/Falco/Vs Samus/Attack shield indirectly.md",
-    "Melee/Falco/Vs Samus/In place aerials to control space.md",
-    "Melee/Marth/Marth fthrow in the corner.md",
-    "Melee/Marth/Marth upthrow in the corner.md",
     "Untitled.canvas"
   ]
 }
