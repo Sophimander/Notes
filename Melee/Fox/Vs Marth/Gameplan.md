@@ -16,7 +16,8 @@ tags:
 ##### Mid Percent
 
 ##### High Percent
-[dont rinse repeat bair as an edge gurad](app://obsidian.md/Melee/Fox/Vs%20Marth/dont%20rinse%20repeat%20bair.md), try and force the marth to land on stage and go for a kill confirm off ledge
+[[dont rinse repeat bair|dont rinse repeat bair as an edge guard]], try and force the marth to land on stage and go for a kill confirm off ledge
+
 
 ### Kill Confirms/Percent
 ###### BF

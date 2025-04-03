@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f9190cf02f3bba21",
+        "id": "e72d8b4866297c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "6775b825eba870a1",
+            "id": "9e7631e76c0b6a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Pickles/Fox/Gameplan.md",
-                "mode": "source",
+                "file": "Melee/Falco/vs Sheik/Gameplan.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -161,12 +161,12 @@
               "title": "Outline of Gameplan"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,16 +179,26 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6775b825eba870a1",
+  "active": "9e7631e76c0b6a14",
   "lastOpenFiles": [
-    "Melee/Pickles/Falco/Gameplan.md",
+    "Melee/Falco/Vs Samus/In place aerials to control space.md",
+    "Melee/Falco/peach up b on shield when on a platform.md",
+    "Templates/Thought.md",
+    "Templates/Gameplan.md",
+    "Melee/Fox/Vs Marth/Gameplan.md",
+    "Melee/Fox/Resources.md",
+    "Melee/Fox/Vs Marth/dont rinse repeat bair.md",
     "Melee/Pickles/Fox/Gameplan.md",
+    "Melee/Pickles/Falco/Gameplan.md",
+    "dont.md",
+    "Melee/Falco/Resources.md",
     "Melee/Falco/Vs Marth/Gameplan.md",
+    "Templates/Test.md",
+    "Templates/Kill Percentage Table.md",
+    "Melee/Fox/Vs Marth",
     "Melee/Pickles/Luigi/Gameplan.md",
     "Melee/Pickles/Marth/Gameplan.md",
     "Melee/Pickles/Sheik/Gameplan.md",
-    "Melee/Fox/Resources.md",
-    "Templates/Gameplan.md",
     "Melee/Coaching/Thoughts 7-23-2024.md",
     "Melee/Pickles/Fox",
     "Melee/Pickles/Sheik",
@@ -200,22 +210,13 @@
     "Melee/Coaching/Thoughts 5-27-2024.md",
     "Melee/Coaching/Thoughts 3-8-2024.md",
     "Melee/Coaching/Thoughts 3-5-2024.md",
-    "Melee/Falco/peach up b on shield when on a platform.md",
-    "Melee/Falco/Resources.md",
     "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
     "Melee/Falco/Vods to review.md",
     "Melee/Fox",
     "Melee/Yoshi/Resources.md",
     "Game_0021BDAEC6AB_20240411T211356.slp",
     "Game_0021BDAEC6AB_20240411T211124 1.slp",
-    "Game_0021BDAEC6AB_20240411T211124.slp",
-    "Templates/Kill Percentage Table.md",
-    "Templates/Test.md",
     "Melee/Falco/Vod Review/ZrAcid vs Soph @ Recovery 41.md",
-    "Melee/Falco/vs Sheik/Gameplan.md",
-    "Untitled.md",
-    "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 LF.md",
-    "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
     "Untitled.canvas"
   ]
 }
