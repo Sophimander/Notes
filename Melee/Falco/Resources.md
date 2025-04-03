@@ -9,7 +9,7 @@ tags: falco melee resources guide
 ## TODO
 ```dataview
 LIST
-FROM #todo
+FROM #todo AND #falco 
 ```
 
 ## Insights

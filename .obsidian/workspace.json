@@ -4,33 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "9153752ebc2e134f",
+        "id": "546df462bd78e7e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e538f0df8f6ba0e0",
+            "id": "9aaae4758e59f3af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Yoshi/Resources.md",
+                "file": "Melee/Fox/Resources.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Resources"
             }
           },
           {
-            "id": "423da7274187e841",
+            "id": "cbfb6e36cdbd761e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Melee/Coaching/Thoughts 3-8-2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
@@ -53,8 +63,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +82,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -100,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melee/Coaching/Thoughts 3-8-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +124,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -117,10 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melee/Coaching/Thoughts 3-8-2024.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -130,8 +149,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,8 +163,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Melee/Coaching/Thoughts 3-8-2024.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -162,44 +189,44 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "423da7274187e841",
+  "active": "cbfb6e36cdbd761e",
   "lastOpenFiles": [
-    "Melee/Coaching/Thoughts 3-5-2024.md",
+    "Melee/Falco/peach up b on shield when on a platform.md",
+    "Melee/Fox/Resources.md",
+    "Melee/Falco/Resources.md",
+    "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
+    "Melee/Falco/Vods to review.md",
+    "Melee/Fox",
+    "Melee/Yoshi/Resources.md",
+    "Melee/Coaching/Thoughts 4-18-2024.md",
+    "Melee/Coaching/Thoughts 7-23-2024.md",
     "Melee/Coaching/Thoughts 3-8-2024.md",
+    "Melee/Coaching/Thoughts 5-27-2024.md",
+    "Game_0021BDAEC6AB_20240411T211356.slp",
+    "Game_0021BDAEC6AB_20240411T211124 1.slp",
+    "Game_0021BDAEC6AB_20240411T211124.slp",
+    "Melee/Coaching/Thoughts 3-5-2024.md",
     "Templates/Gameplan.md",
     "Templates/Kill Percentage Table.md",
     "Templates/Test.md",
-    "Melee/Yoshi/Resources.md",
     "Melee/Coaching",
-    "Melee/Falco/peach up b on shield when on a platform.md",
     "Melee/Falco/Vs Marth/Gameplan.md",
     "Melee/Falco/Vod Review/ZrAcid vs Soph @ Recovery 41.md",
     "Game_00224CD395E8_20290826T093308.slp",
     "Game_00224CD395E8_20290826T092947.slp",
     "Game_00224CD395E8_20290826T092641.slp",
     "Game_00224CD395E8_20290826T092356.slp",
-    "Melee/Falco/Vod Review/Kuyashi vs Soph @ Recovery 29 LQF.md",
     "Melee/Falco/vs Sheik/Gameplan.md",
     "Melee/Falco/vs Sheik",
-    "Melee/Falco/Vods to review.md",
     "Untitled.md",
     "Melee/Falco/Vod Review/Morsecode vs Ginger @ Meat 10 LF.md",
     "Melee/Marth/Vs Falco/Game plan - Marth vs Falco.md",
     "Melee/Yoshi/Dash attacking samus bombs.md",
     "Melee/Falco/Vs Samus/Attack shield indirectly.md",
     "Melee/Falco/Vs Samus/In place aerials to control space.md",
-    "Melee/Falco/Resources.md",
     "Melee/Marth/Marth fthrow in the corner.md",
     "Melee/Marth/Marth upthrow in the corner.md",
     "Melee/Marth/Resources.md",
-    "Melee/Marth/Vs Falco",
-    "Melee/Melee MOC.md",
-    "Untitled.canvas",
-    "Game_20231113T200327.slp",
-    "Game_20231113T200840.slp",
-    "Game_20231113T200614.slp",
-    "Melee/Yoshi/Tim Yoshi Notes.md",
-    "Melee/Yoshi/DK pressure on platforms.md",
-    "Melee/Yoshi/Neutral b at low %.md"
+    "Untitled.canvas"
   ]
 }
