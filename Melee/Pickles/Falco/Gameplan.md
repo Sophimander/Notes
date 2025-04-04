@@ -11,6 +11,8 @@ Marth do be moving. Don't let him.
 Corner pressure without putting yourself at risk of shield grab. It's all he wants and it's disgusting.
 They will always up B later than you think.
 
+pickles will be in the corner and if you're going to interact with him, [just fully overshoot into the corner](app://obsidian.md/just%20overshoot). Be prepared for a potential roll in.
+
 ###### Stage Priority
 1. DL (Use the space, don't let the Marth move backwards multiple times and bait you)
 2. YS (Prioritize sweetspot side b less)

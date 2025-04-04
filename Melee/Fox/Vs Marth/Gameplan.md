@@ -9,7 +9,15 @@ tags:
 ---
 # Thoughts
 
+
+
 ###### Stage Priority
+1. YS (In theory)
+2. DL (Gotta use the space tho)
+3. BF (preference over FoD)
+4. FoD (If you like better than BF)
+5. PS (Not sure about this, feel like low ceiling kinda big)
+6. FD (Only if they cant chaingrab and you got crazy punish)
 
 ##### Low Percent
 

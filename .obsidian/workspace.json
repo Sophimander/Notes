@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Fox/Vs Marth/dont rinse repeat bair.md",
+                "file": "Melee/Fox/Resources.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dont rinse repeat bair"
+              "title": "Resources"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,23 +182,24 @@
   },
   "active": "9e7631e76c0b6a14",
   "lastOpenFiles": [
-    "Templates/Thought.md",
+    "Melee/Fox/just overshoot.md",
     "Melee/Fox/Resources.md",
-    "Melee/Fox/Vs Marth/dont rinse repeat bair.md",
-    "Melee/Fox/Vs Marth/Gameplan.md",
     "Melee/Pickles/Fox/Gameplan.md",
     "Melee/Pickles/Falco/Gameplan.md",
-    "Melee/Falco/Vods to review.md",
+    "Melee/Fox/Vs Marth/dont rinse repeat bair.md",
+    "Melee/Fox/Vs Marth/Gameplan.md",
     "Melee/Falco/Vs Samus/Attack shield indirectly.md",
+    "Melee/Falco/Vods to review.md",
+    "Templates/Thought.md",
+    "Melee/Falco/Vs Marth/Gameplan.md",
+    "Melee/Falco/vs Sheik/Gameplan.md",
     "Melee/Falco/Vs Samus/In place aerials to control space.md",
     "Melee/Falco/Resources.md",
     "Melee/Melee MOC.md",
     "Melee/Yoshi/Resources.md",
-    "Melee/Falco/vs Sheik/Gameplan.md",
     "Melee/Falco/peach up b on shield when on a platform.md",
     "Templates/Gameplan.md",
     "dont.md",
-    "Melee/Falco/Vs Marth/Gameplan.md",
     "Templates/Test.md",
     "Templates/Kill Percentage Table.md",
     "Melee/Fox/Vs Marth",
@@ -212,8 +214,6 @@
     "Melee/Pickles/Marth",
     "Melee/Pickles",
     "Melee/Coaching/Thoughts 4-18-2024.md",
-    "Melee/Coaching/Thoughts 5-27-2024.md",
-    "Melee/Coaching/Thoughts 3-8-2024.md",
     "Melee/Fox",
     "Game_0021BDAEC6AB_20240411T211356.slp",
     "Game_0021BDAEC6AB_20240411T211124 1.slp",
