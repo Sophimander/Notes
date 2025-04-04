@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melee/Fox/Resources.md",
-                "mode": "preview",
+                "file": "Project+/Project+ MOC.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Project+ MOC"
             }
           }
         ]
@@ -180,10 +180,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9e7631e76c0b6a14",
+  "active": "e393a631d64198e7",
   "lastOpenFiles": [
-    "Melee/Fox/just overshoot.md",
+    "Project+/Lucas/Resources.md",
+    "Melee/Melee MOC.md",
+    "Project+/Project+ MOC.md",
+    "Melee/Falco/Resources.md",
+    "Project+/Lucas",
+    "Project+/Untitled 1.md",
+    "Templates/Test.md",
+    "Project+",
     "Melee/Fox/Resources.md",
+    "Melee/Fox/just overshoot.md",
     "Melee/Pickles/Fox/Gameplan.md",
     "Melee/Pickles/Falco/Gameplan.md",
     "Melee/Fox/Vs Marth/dont rinse repeat bair.md",
@@ -194,29 +202,22 @@
     "Melee/Falco/Vs Marth/Gameplan.md",
     "Melee/Falco/vs Sheik/Gameplan.md",
     "Melee/Falco/Vs Samus/In place aerials to control space.md",
-    "Melee/Falco/Resources.md",
-    "Melee/Melee MOC.md",
     "Melee/Yoshi/Resources.md",
     "Melee/Falco/peach up b on shield when on a platform.md",
     "Templates/Gameplan.md",
     "dont.md",
-    "Templates/Test.md",
     "Templates/Kill Percentage Table.md",
     "Melee/Fox/Vs Marth",
     "Melee/Pickles/Luigi/Gameplan.md",
     "Melee/Pickles/Marth/Gameplan.md",
     "Melee/Pickles/Sheik/Gameplan.md",
-    "Melee/Coaching/Thoughts 7-23-2024.md",
     "Melee/Pickles/Fox",
     "Melee/Pickles/Sheik",
     "Melee/Pickles/Luigi",
     "Melee/Pickles/Falco",
     "Melee/Pickles/Marth",
     "Melee/Pickles",
-    "Melee/Coaching/Thoughts 4-18-2024.md",
     "Melee/Fox",
-    "Game_0021BDAEC6AB_20240411T211356.slp",
-    "Game_0021BDAEC6AB_20240411T211124 1.slp",
     "Untitled.canvas"
   ]
 }

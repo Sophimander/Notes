@@ -1,5 +1,12 @@
 ---
-tags: index melee resources marth falco yoshi
+tags:
+  - index
+  - melee
+  - resources
+  - marth
+  - falco
+  - yoshi
+  - fox
 ---
 
 # Characters
