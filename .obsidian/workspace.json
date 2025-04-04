@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project+/Project+ MOC.md",
+                "file": "Melee/Pickles/Fox/Gameplan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project+ MOC"
+              "title": "Gameplan"
             }
           }
         ]
@@ -180,11 +180,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e393a631d64198e7",
+  "active": "9e7631e76c0b6a14",
   "lastOpenFiles": [
+    "Project+/Project+ MOC.md",
     "Project+/Lucas/Resources.md",
     "Melee/Melee MOC.md",
-    "Project+/Project+ MOC.md",
     "Melee/Falco/Resources.md",
     "Project+/Lucas",
     "Project+/Untitled 1.md",
